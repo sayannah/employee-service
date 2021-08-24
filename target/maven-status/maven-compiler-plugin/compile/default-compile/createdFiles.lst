@@ -1,0 +1,17 @@
+com\cts\employeemicroservice\model\Points.class
+com\cts\employeemicroservice\client\OfferClient.class
+com\cts\employeemicroservice\repository\EmployeeRepository.class
+com\cts\employeemicroservice\service\EmployeeService.class
+com\cts\employeemicroservice\config\SwaggerConfig.class
+com\cts\employeemicroservice\model\EmployeeOffers.class
+com\cts\employeemicroservice\exception\EmployeeExceptionHandler.class
+com\cts\employeemicroservice\controller\EmployeeController.class
+com\cts\employeemicroservice\client\AuthClient.class
+com\cts\employeemicroservice\model\Employee.class
+com\cts\employeemicroservice\model\AuthResponse.class
+com\cts\employeemicroservice\EmployeeMicroserviceApplication.class
+com\cts\employeemicroservice\exception\InvalidUserException.class
+com\cts\employeemicroservice\service\EmployeeServiceImpl.class
+com\cts\employeemicroservice\model\MessageResponse.class
+com\cts\employeemicroservice\client\PointsCient.class
+com\cts\employeemicroservice\model\OfferCategory.class
